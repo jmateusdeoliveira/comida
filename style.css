@@ -4,7 +4,7 @@
 }
 
 header {
-    background-color: rgb(235, 172, 15);
+    background-color: rgb(247, 202, 90);
     color: rgb(246, 255, 204);
     display:flex ;
     justify-content:space-around;
@@ -15,4 +15,6 @@ img{
     width: ;
     padding:24px ;
     align-items: center;
+    background-image:linear-gradientrgb(rgb(247, 207, 29),rgb(255, 213, 75)) 
+    
 }
