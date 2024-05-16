@@ -9,12 +9,13 @@ header {
     display:flex ;
     justify-content:space-around;
 }
-
-img{
+.imagen1{
     width: 10%;
-    width: ;
     padding:24px ;
     align-items: center;
-    background-image:linear-gradientrgb(rgb(247, 207, 29),rgb(255, 213, 75)) 
-    
+}
+.imagen2{
+    width: 10;
+
+    background-image: linear-gradient(rgb(247, 199, 69),rgb(255, 227, 102) );
 }
