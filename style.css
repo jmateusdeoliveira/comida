@@ -17,3 +17,6 @@ header {
 .restaurante{
     background-image: linear-gradient(rgb(247, 202, 90),rgb(255, 208, 0) );
 }
+body{
+    background-color: rgb(247, 202, 90);
+}
