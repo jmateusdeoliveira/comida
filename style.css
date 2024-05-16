@@ -14,8 +14,6 @@ header {
     padding:24px ;
     align-items: center;
 }
-.imagen2{
-    width: 10;
-
-    background-image: linear-gradient(rgb(247, 199, 69),rgb(255, 227, 102) );
+.restaurante{
+    background-image: linear-gradient(rgb(247, 202, 90),rgb(255, 208, 0) );
 }
