@@ -4,8 +4,6 @@
 }
 
 header {
-    background-color: rgb(247, 202, 90);
-    color: rgb(246, 255, 204);
     display:flex ;
     justify-content:space-around;
 }
