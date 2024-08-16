@@ -13,8 +13,8 @@ header {
     align-items: center;
 }
 .restaurante{
-    background-image: linear-gradient(rgb(247, 202, 90),rgb(255, 208, 0) );
+    background: linear-gradient(rgb(255, 224, 46),rgb(255, 231, 122) );
 }
-body{
-    background-color: rgb(255, 255, 0);
+   {
+ background: -moz-radial-gradient(255, 224, 46),(255, 224, 46);
 }
